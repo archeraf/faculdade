@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/antli/Desktop/Faculdade/intro_to_prog/SuperTrunfo.P2",
-      "program": "c:/Users/antli/Desktop/Faculdade/intro_to_prog/SuperTrunfo.P2/build/Debug/outDebug",
+      "cwd": "c:/Users/antli/Desktop/Faculdade/intro_to_prog/Xadrez",
+      "program": "c:/Users/antli/Desktop/Faculdade/intro_to_prog/Xadrez/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
