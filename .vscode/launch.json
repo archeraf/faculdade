@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/antli/Desktop/Faculdade/intro_to_prog/Xadrez",
-      "program": "c:/Users/antli/Desktop/Faculdade/intro_to_prog/Xadrez/build/Debug/outDebug",
+      "cwd": "c:/Users/Antônio Archer/Desktop/Faculdade/faculdade/BatalhaNaval",
+      "program": "c:/Users/Antônio Archer/Desktop/Faculdade/faculdade/BatalhaNaval/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
